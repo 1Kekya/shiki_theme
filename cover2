@@ -1,0 +1,1 @@
+@media (min-width: 960px){body{background:var(--user-cover) center top/cover no-repeat fixed !important}#profiles_show .l-page{margin-top:352px;border-radius:8px 8px 0 0}.p-profiles .profile-head::before{display:none !important}}
